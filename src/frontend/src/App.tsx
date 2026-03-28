@@ -151,6 +151,8 @@ const CATEGORIES: Category[] = [
         name: "Ergonomic Pruning Shears",
         description: "Sharp precision blades with soft-grip handle",
         price: "৳650",
+        image:
+          "/assets/uploads/image-019d2839-9a54-716b-afa9-643894bc53f1-1.png",
       },
       {
         name: "Raised Bed Soil Knife",
